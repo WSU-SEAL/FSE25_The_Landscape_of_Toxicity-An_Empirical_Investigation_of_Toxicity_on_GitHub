@@ -12,10 +12,10 @@ are seven times more toxic than non-gaming ones. OSS contributors who have autho
 the past are significantly more likely to repeat such behavior. Moreover, such individuals are more likely to
 become targets of toxic texts.
 
-#full paper is here: https://arxiv.org/pdf/2502.08238 
+# full paper is here: https://arxiv.org/pdf/2502.08238 
 
-#The scripts and dataset are available here: https://zenodo.org/records/14802294
-
+# The scripts and dataset are available here: https://zenodo.org/records/14802294
+# DOI of the dataset: 10.5281/zenodo.14802293
 
 
 ## Citation for for this paper
@@ -26,7 +26,7 @@ FSE-2025 "The Landscape of Toxicity: An Empirical Investigation of Toxicity on G
 
 ```
 @inproceedings{sarker2025empirical,
-author = {\myname and Turzo, Asif Kamal and Bosu, Amiangshu},
+author = {Sarker, Jaydeb and Turzo, Asif Kamal and Bosu, Amiangshu},
 title = {The Landscape of Toxicity: An Empirical Investigation of Toxicity on GitHub},
 year = { 2025},
 pages={TBD},
@@ -40,7 +40,7 @@ booktitle = {The ACM Joint European Software Engineering Conference and Symposiu
 articleno = {},
 numpages = {},
 keywords = {toxicity, span detection, software engineering, natural language processing, explainability},
-month=october,
+month=June,
 location = { }
 }
 ```
