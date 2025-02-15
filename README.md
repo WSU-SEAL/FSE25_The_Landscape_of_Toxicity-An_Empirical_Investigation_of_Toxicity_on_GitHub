@@ -25,7 +25,7 @@ If you use our work, please cite our paper:
 FSE-2025 "The Landscape of Toxicity: An Empirical Investigation of Toxicity on GitHub"
 
 ```
-@inproceedings{sarker2025empirical,
+@inproceedings{sarker2025landscape,
 author = {Sarker, Jaydeb and Turzo, Asif Kamal and Bosu, Amiangshu},
 title = {The Landscape of Toxicity: An Empirical Investigation of Toxicity on GitHub},
 year = { 2025},
